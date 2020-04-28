@@ -44,3 +44,6 @@ All you have to do is adding the following lines to your package.json:
   ],
 ```
 The first line tells unpkg the file to serve, and the last 3 lines tell npm to add the dist folder in the package. (if you ignored it in the .gitignore file)
+
+## El ejemplo subido al CDN quedaría:
+https://unpkg.com/simplejswidget@1.0.1/dist/simplejswidget.min.js
