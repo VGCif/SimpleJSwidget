@@ -47,3 +47,13 @@ The first line tells unpkg the file to serve, and the last 3 lines tell npm to a
 
 ## El ejemplo subido al CDN quedaría:
 https://unpkg.com/simplejswidget@1.0.1/dist/simplejswidget.min.js
+
+___________________________________
+___________________________________
+
+# El código a integrar dentro de otra web es:
+```html
+<todo-list>
+</todo-list>
+<script type="text/javascript" src="https://unpkg.com/simplejswidget@1.0.1/dist/simplejswidget.min.js"></script>
+```
