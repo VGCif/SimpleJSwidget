@@ -1,0 +1,2 @@
+# SimpleJSwidget
+Simple JS widget
